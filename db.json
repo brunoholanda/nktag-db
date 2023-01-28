@@ -1,0 +1,64 @@
+{ "videos":
+[
+    {
+        "id": 1,
+        "titulo": "Espelho Inteligente",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img8-min.png",
+        "link": "https://youtu.be/nybZmXBRpkI"
+    },
+    {
+        "id": 2,
+        "titulo": "Portao de casa WI-FI",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img5-min.png",
+        "link": "https://youtu.be/FQQYDgmXFTc"
+    },
+    {
+        "id": 3,
+        "titulo": "Segredos do Google Chromecast",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img1-min.png",
+        "link": "https://youtu.be/q9OsWBEHDO4"
+    },
+    {
+        "id": 4,
+        "titulo": "Alexa VS Googlw Homw",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img2-min.png",
+        "link": "https://youtu.be/tzfnlcJqjYQ"
+    },
+	{
+        "id": 5,
+        "titulo": "A incrivel Maquina de REFRI",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img10-min.png",
+        "link": "https://youtu.be/YMGiZMBldh4"
+    },
+	{
+        "id": 6,
+        "titulo": "Automacao Residencial",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img9-min.png",
+        "link": "https://youtu.be/Yfc0dwS402A"
+    },
+	{
+        "id": 7,
+        "titulo": "Fechadura Bluetooth DIY",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img7-min.png",
+        "link": "https://youtu.be/OyfdHldKBPg"
+    },
+	{
+        "id": 8,
+        "titulo": "Plataforma Robotica",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img4-min.png",
+        "link": "https://youtu.be/GBttYwh-nik"
+    },
+	{
+        "id": 9,
+        "titulo": "Dispensador de Alcool",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img6-min.png",
+        "link": "https://youtu.be/GBttYwh-nik"
+    },
+	{
+        "id": 10,
+        "titulo": "Dispensador de Alcool",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img3-min-1.png",
+        "link": "https://youtu.be/siXLTV5zAyc"
+    }
+]
+}
